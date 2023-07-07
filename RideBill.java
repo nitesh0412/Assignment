@@ -44,3 +44,15 @@ public class RideBill {
 
     }
 }
+
+/*    Output :
+Start
+Enter Your height :
+145
+Can Ride
+Enter your age : 
+42
+Want Photos?
+yes
+The Total Bill amount is 15
+*/
